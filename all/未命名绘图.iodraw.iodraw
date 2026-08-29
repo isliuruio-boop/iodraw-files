@@ -7,7 +7,7 @@
         <mxCell id="auYBwBNYTbAAAEX8C6P2-1" value="&lt;h3&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;登录页&lt;/font&gt;&lt;/h3&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;账号&amp;amp;密码&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="20" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="auYBwBNYTbAAAEX8C6P2-2" value="&lt;h3&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;注册页&lt;/font&gt;&lt;/h3&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;账号&amp;amp;密码&amp;amp;姓名&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="auYBwBNYTbAAAEX8C6P2-2" value="&lt;h4&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;注册页&lt;br&gt;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt;账号&amp;amp;密码&amp;amp;姓名&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="20" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="auYBwBNYTbAAAEX8C6P2-5" value="&lt;h4&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;首页&lt;br&gt;&lt;/font&gt;&lt;/h4&gt;&lt;h6&gt;&lt;font size=&quot;3&quot;&gt;按角色进入&lt;/font&gt;&lt;/h6&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
