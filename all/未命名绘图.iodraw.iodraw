@@ -127,8 +127,8 @@
         <mxCell id="auYBwBNYTbAAAEX8C6P2-36" value="注册入口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="auYBwBNYTbAAAEX8C6P2-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="670" width="60" height="30" as="geometry" />
+        <mxCell id="auYBwBNYTbAAAEX8C6P2-37" value="患者端与医生端仅承担采集与展示，推理在云端完成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="670" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
